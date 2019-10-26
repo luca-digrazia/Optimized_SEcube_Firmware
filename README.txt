@@ -1,5 +1,1 @@
-
-1. Clone secube repo here
-    git clone https://USERNAME@bitbucket.org/nicifer/secube
-    
-2. Start Eclipse and set its workspace to the "ws" directory
+In this project a optimized firmware for the SEcube&#8482; platform is developed.
